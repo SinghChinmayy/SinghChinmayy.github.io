@@ -10,9 +10,7 @@ email: hello@chinmaysingh.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple website recording my journey.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  copyright (c) 2021 Chinmay Singh
 keywords: chinmay, singh, chinmay singh, chinmay singh blog, blog, portfolio-website, website,computer science # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐥 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -28,8 +26,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -63,8 +61,8 @@ max_width: 930px
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: 🐔 # The site-wide (default for all links) Open Graph preview image
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: logo.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -80,12 +78,12 @@ flickr_id: # your flickr id
 github_username: SinghChinmayy # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-instagram_id: @SinghChinmayy # your instagram id
+instagram_id: SinghChinmayy # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: SinghChinmayy # your LinkedIn user name
+linkedin_username: SinghChinmay # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -99,14 +97,14 @@ scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
-telegram_username: @SinghChinmayy # your Telegram user name
+telegram_username: SinghChinmayy # your Telegram user name
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: @SinghChinmayy # your X handle
+x_username: SinghChinmayy # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
