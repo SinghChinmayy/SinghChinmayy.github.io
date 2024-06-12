@@ -8,9 +8,9 @@ middle_name:
 last_name: Singh
 email: hello@chinmaysingh.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple website recording my journey.
+  DevOps Developer, Computer Enthusiast, & Lifelong Learner.
 footer_text: >
-  copyright (c) 2021 Chinmay Singh
+  <br><i>Si vis pacem, para bellum</i><br>
 keywords: chinmay, singh, chinmay singh, chinmay singh blog, blog, portfolio-website, website,computer science # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐥 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -109,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Fell free to contact me if you have any questions.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
