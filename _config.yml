@@ -100,7 +100,7 @@ stackoverflow_id: # your stackoverflow id
 telegram_username: SinghChinmayy # your Telegram user name
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: +919472174597 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
@@ -128,8 +128,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Chinmay Singh's Blogs # blog_name will be displayed in your blog page
-blog_description: a simple blog where I track my journey
+blog_name: Chinmay's Blogs # blog_name will be displayed in your blog page
+blog_description: A simple blog where I write about computers and life.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -157,7 +157,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: # put your disqus shortname
+disqus_shortname: chinmaysingh-me # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # # External sources.
